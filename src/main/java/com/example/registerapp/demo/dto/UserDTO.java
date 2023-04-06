@@ -1,7 +1,7 @@
 package com.example.registerapp.demo.dto;
 
 public class UserDTO {
-
+    
     private String firstName;
     private String lastName;
     private String email;
